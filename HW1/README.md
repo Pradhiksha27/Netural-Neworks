@@ -1,5 +1,5 @@
 # Neural Networks Assignments
-## CS682 Machine Learning - Assignment Solutions
+## CS682 Neural Networks - Assignment Solutions
 Repository contains my solutions to the [CS682](https://compsci682-fa19.github.io/) course offered at the University of Massachusetts, Amherst in Fall 2019.
 
 ### HW1
